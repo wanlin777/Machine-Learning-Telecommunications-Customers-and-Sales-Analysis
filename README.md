@@ -11,6 +11,7 @@ OnlineBackup, DeviceProtection, TechSupport, StreamingTV,
 StreamingMovies, Contract, PaperlessBilling, PaymentMethod,
 MonthlyCharges, TotalCharges.
 ## Project Goal:
-Design, develop and deploy various machine learning models that would perform thorough 
+Design, develop and deploy various machine learning models that 
+would perform thorough 
 customer segmentation analysis and map the target/addressable market 
 for the client company’s products and services.
