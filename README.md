@@ -11,7 +11,9 @@ OnlineBackup, DeviceProtection, TechSupport, StreamingTV,
 StreamingMovies, Contract, PaperlessBilling, PaymentMethod,
 MonthlyCharges, TotalCharges.
 ## Project Goal:
-Design, develop and deploy various machine learning models that 
-would perform thorough 
-customer segmentation analysis and map the target/addressable market 
-for the client company’s products and services.
+* **Target marketing based on customer segmentation:** Use K-Means to divide our customers into 4 different groups, and
+then marketing department employees can utilize this information to target the customers.
+* **Predict customer behavior for potential purchases:** Use regression models based on customer personal information to predict
+how much money such customers would like to spend in the future.
+* **Create a product recommendation system:** Use classification models based on customer personal information to predict 
+which contract s/he may be interested in signing and target our customers with different marketing strategies.
